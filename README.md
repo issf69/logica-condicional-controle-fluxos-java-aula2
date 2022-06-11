@@ -54,15 +54,15 @@ public class Main {
 
         // Resultado
         b1 && b2 false
-b1 && b3 true
-b2 || b3 true
-b2 || b4 false
-b1 ^ b3 false
-b4 ^ b1 true
-!b1
-!b2
-((i1 + i2 < (f2 - f1)) && true true
-(i1 > i2 || (f2 < f1) true
-false
-false
-recebeAuxilio false
+        b1 && b3 true
+        b2 || b3 true
+        b2 || b4 false
+        b1 ^ b3 false
+        b4 ^ b1 true
+        !b1
+        !b2
+        ((i1 + i2 < (f2 - f1)) && true true
+        (i1 > i2 || (f2 < f1) true
+        false
+        false
+        recebeAuxilio false
